@@ -1,5 +1,5 @@
 {
-  "name": "golance-kafka-node",
+  "name": "golance-kafka-node-old",
   "description": "goLance fork of kafka-node: node client for Apache kafka, only support kafka 0.8 and above",
   "version": "0.2.32",
   "main": "kafka.js",
